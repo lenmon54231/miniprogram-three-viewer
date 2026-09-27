@@ -1,4 +1,4 @@
-# 3d-viewer
+# miniprogram-three-viewer
 
 基于 three.js（r160）的微信小程序 3D 模型查看器插件。内置 glTF/GLB 加载（含内嵌贴图、骨骼动画）、PBR 环境光照、单指旋转 / 双指缩放手势。
 

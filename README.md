@@ -1,4 +1,4 @@
-# 3d-viewer
+# miniprogram-three-viewer
 
 基于 three.js（r160）的微信小程序 3D 模型查看器，以 **npm 组件包** 形式分发。
 
